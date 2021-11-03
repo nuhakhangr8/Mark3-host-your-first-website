@@ -6,6 +6,11 @@
 * Guide-[Neog-mark3-guide](https://neog.camp/guide/lesson-two)
 
 ## Bonus Questions
+* [ ] Homework:
+   Read about open source LICENSE.
+   
+   Explore LICENSE of some famous open source repositories
+* [ ]  Look into commit messages of open source work on Github to get some inspiration.
 * [x] homework: learn markdown
 
     * [x] watched--[markdown](https://youtu.be/HUBNt18RFbo)
